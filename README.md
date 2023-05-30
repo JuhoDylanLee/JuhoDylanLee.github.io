@@ -9,7 +9,7 @@
     <p> add text here </p>
     <h2> small test </h2>
     <p> text is small!! 
-      <mark> highlighting </mark>
+      <mark>p highlighting </mark>
     </p>
     <br/> next line
     
