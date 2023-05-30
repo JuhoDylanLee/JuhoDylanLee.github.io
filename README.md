@@ -8,9 +8,8 @@
     <h1> Here is body </h1>
     <p> add text here </p>
     <h2> small test </h2>
-    <p> text is small!! 
-      <mark>p highlighting </mark>
-    </p>
+    <mark>p highlighting </mark>
+    <p> text is small!! </p>
     <br/> next line
     
   </body>
