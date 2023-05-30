@@ -11,7 +11,7 @@
     <mark>p highlighting </mark>
     <p> text is small!! </p>
     <br/> next line
-    
+    <img src="Image (1).jpeg" />
   </body>
 
 
