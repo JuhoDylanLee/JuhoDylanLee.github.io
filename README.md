@@ -12,7 +12,7 @@
     <p> text is small!! </p>
     <br/> next line
     <img src="Image (1).jpeg"
-         width="100"/>
+         width="300" height="300"/>
   </body>
 
 
